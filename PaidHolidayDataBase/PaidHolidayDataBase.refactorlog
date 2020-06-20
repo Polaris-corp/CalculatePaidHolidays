@@ -1,0 +1,38 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Operations Version="1.0" xmlns="http://schemas.microsoft.com/sqlserver/dac/Serialization/2012/02">
+  <Operation Name="Rename Refactor" Key="222cc29e-dadb-4439-ab00-fcf917e73d56" ChangeDateTime="06/20/2020 07:06:01">
+    <Property Name="ElementName" Value="[dbo].[MnagingPaidHoliday].[Hire date]" />
+    <Property Name="ElementType" Value="SqlSimpleColumn" />
+    <Property Name="ParentElementName" Value="[dbo].[MnagingPaidHoliday]" />
+    <Property Name="ParentElementType" Value="SqlTable" />
+    <Property Name="NewName" Value="hireDate" />
+  </Operation>
+  <Operation Name="Rename Refactor" Key="b4fb12a9-f0ed-406d-b6fc-af8061df255f" ChangeDateTime="06/20/2020 07:06:08">
+    <Property Name="ElementName" Value="[dbo].[MnagingPaidHoliday].[employeeId]" />
+    <Property Name="ElementType" Value="SqlSimpleColumn" />
+    <Property Name="ParentElementName" Value="[dbo].[MnagingPaidHoliday]" />
+    <Property Name="ParentElementType" Value="SqlTable" />
+    <Property Name="NewName" Value="EmployeeId" />
+  </Operation>
+  <Operation Name="Rename Refactor" Key="45cb9865-695f-4176-b455-c7c54f9e8b72" ChangeDateTime="06/20/2020 07:06:13">
+    <Property Name="ElementName" Value="[dbo].[MnagingPaidHoliday].[hireDate]" />
+    <Property Name="ElementType" Value="SqlSimpleColumn" />
+    <Property Name="ParentElementName" Value="[dbo].[MnagingPaidHoliday]" />
+    <Property Name="ParentElementType" Value="SqlTable" />
+    <Property Name="NewName" Value="HireDate" />
+  </Operation>
+  <Operation Name="Rename Refactor" Key="661ae2a3-1fe7-48bc-8093-5a15c10ceb95" ChangeDateTime="06/20/2020 07:07:49">
+    <Property Name="ElementName" Value="[dbo].[MnagingPaidHoliday].[HireDate]" />
+    <Property Name="ElementType" Value="SqlSimpleColumn" />
+    <Property Name="ParentElementName" Value="[dbo].[MnagingPaidHoliday]" />
+    <Property Name="ParentElementType" Value="SqlTable" />
+    <Property Name="NewName" Value="GrantDate" />
+  </Operation>
+  <Operation Name="Rename Refactor" Key="b17df8e2-5866-4645-9733-49ef1a9a1d6e" ChangeDateTime="06/20/2020 08:29:11">
+    <Property Name="ElementName" Value="[dbo].[UsedPaidHolidaysHistory].[Use]" />
+    <Property Name="ElementType" Value="SqlSimpleColumn" />
+    <Property Name="ParentElementName" Value="[dbo].[UsedPaidHolidaysHistory]" />
+    <Property Name="ParentElementType" Value="SqlTable" />
+    <Property Name="NewName" Value="UseDate" />
+  </Operation>
+</Operations>
