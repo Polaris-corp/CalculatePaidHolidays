@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 16
 VisualStudioVersion = 16.0.30104.148
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CalcuratePaidHoliday", "CalcuratePaidHoliday\CalcuratePaidHoliday.csproj", "{E64E8A1D-52DE-40D3-9AE5-DE2490365850}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CalculatePaidHolidays", "CalcuratePaidHoliday\CalculatePaidHolidays.csproj", "{E64E8A1D-52DE-40D3-9AE5-DE2490365850}"
 EndProject
 Project("{00D1A9C2-B5F0-4AF3-8072-F6C62B433612}") = "PaidHolidayDataBase", "PaidHolidayDataBase\PaidHolidayDataBase.sqlproj", "{EB8EDCCA-80BE-4674-903B-E4FDB3A035C9}"
 EndProject
